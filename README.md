@@ -1,2 +1,4 @@
 # ts-practice
-TyepScriptの練習う
+TyepScriptの練習
+
+[サバイバルTypeScript](https://typescriptbook.jp/)を利用  
